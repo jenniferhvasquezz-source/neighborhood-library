@@ -188,14 +188,3 @@ public class NeighborhoodLibrary {
                         } else {
                             System.out.println("Invalid ID or the book is not currently checked out.");
                         }
-                    }
-                }
-            }
-
-        }
-
-        }
-
-
-    }
-}
